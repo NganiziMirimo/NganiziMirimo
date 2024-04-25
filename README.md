@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @NganiziMirimo
-- 👀 I’m a computational physicist 
+- 👋 Hi, I’m Nganizi Mirimo
 
-<!---
-NganiziMirimo/NganiziMirimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 Computational Physicist | Researcher | Data Scientist
+
+💻 Tech Stack: Python, MATLAB, C/C++, Maple, MATLAB, R programming. 
+
+💡 Passionate about leveraging computational methods to solve challenging problems in engineering and science.
+
+🌱 Always learning and exploring new techniques in data analysis, machine learning, and scientific computing.
+
+📊 Check out my GitHub repositories for projects related to computational physics.
+
+📫 Let's connect! Feel free to reach out to discuss collaborations or share ideas.
